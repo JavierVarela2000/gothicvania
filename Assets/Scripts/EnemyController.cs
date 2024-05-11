@@ -45,7 +45,7 @@ public class EnemyController : MonoBehaviour
     {
         _rb.AddForce(direction * force, ForceMode2D.Impulse);
         life -= danio;
-
+        Debug.Log("EnemyLife:" + life);
         if (life > 0)
         {
             _animator.SetTrigger("takeHit");
