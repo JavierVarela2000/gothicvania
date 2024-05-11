@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# UNT0025: Input.GetKey overloads with KeyCode argument
+dotnet_diagnostic.UNT0025.severity = silent
