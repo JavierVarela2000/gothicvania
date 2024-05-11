@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 370eaa995f5e5764e82ede8a08e6b19e
+guid: 01775d1d2bfeddf439a7443482c2e4d4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Death1
+      name: Take Hit_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 32
-        width: 50
-        height: 50
+        x: 58
+        y: 49
+        width: 33
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 480c17ccd7b4c2441920dc3bdce54aff
-      internalID: -1210869479
+      spriteID: 31da7cb0745f7444a91caf986dbe4bb9
+      internalID: -472317644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Death3
+      name: Take Hit_1
       rect:
         serializedVersion: 2
-        x: 283
-        y: 32
-        width: 49
-        height: 50
+        x: 208
+        y: 49
+        width: 33
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4622d42a9565e84d82cc38637d6027f
-      internalID: -658278949
+      spriteID: 9ca888625d11d1b4bbbd42e172ea494c
+      internalID: 1385039416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Death5
+      name: Take Hit_3
       rect:
         serializedVersion: 2
-        x: 463
-        y: 32
-        width: 53
-        height: 50
+        x: 353
+        y: 49
+        width: 46
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd40f1f24c3c61148840ac62739c2728
-      internalID: -1289034377
+      spriteID: bd67b377443c41149866f11b22d70064
+      internalID: 293911612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Death6
+      name: Take Hit_5
       rect:
         serializedVersion: 2
-        x: 554
-        y: 32
-        width: 60
-        height: 50
+        x: 502
+        y: 49
+        width: 41
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,92 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f2305b3e95df6848b9e53dd40103e82
-      internalID: -1392885669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Death0
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 32
-        width: 45
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0990c2f24d379d44aa34a738fcf01aba
-      internalID: 619572553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Death2
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 32
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d22fdaa3afcaafe47b36cd9590cc93bb
-      internalID: 182002985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Death4
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 32
-        width: 51
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f61036c4188ab474c9e4cfb926da0370
-      internalID: -1405865460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Death7
-      rect:
-        serializedVersion: 2
-        x: 644
-        y: 32
-        width: 59
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b66ad7cdf569d6247b7c38df13526dff
-      internalID: 13183274
+      spriteID: 8e97ec29e4390ed43bdc989f7337f1b6
+      internalID: 1561614318
       vertices: []
       indices: 
       edges: []
@@ -301,15 +217,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Death0: 619572553
-      Death1: -1210869479
-      Death2: 182002985
-      Death3: -658278949
-      Death4: -1405865460
-      Death5: -1289034377
-      Death6: -1392885669
-      Death7: 13183274
-      Death_1: 1934051665
+      Take Hit_0: -472317644
+      Take Hit_1: 1385039416
+      Take Hit_2: -790828089
+      Take Hit_3: 293911612
+      Take Hit_4: -193976103
+      Take Hit_5: 1561614318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
